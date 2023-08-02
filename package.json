@@ -1,0 +1,17 @@
+{
+  "name": "walk-thru-dom",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "Oluwasetemi Ojo <setemiojo@gmail.com> (https://oluwasetemi.dev/)",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^4.4.8"
+  }
+}
